@@ -1,6 +1,6 @@
 # Algorithm Practice - With Tests!
 
-JavaScript solutions to common coding interview practice problems - Will be updating inter mittently as I work throgh
+JavaScript solutions to common coding interview practice problems - Will be updating intermittently as I work through problems.
 
 ### To Run Locally:
 
