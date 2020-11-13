@@ -10,13 +10,13 @@ The depth of a "special" array is how far nested it is. For instance, the depth 
 
 Therefore, the product sum of `[x, y]` is `x + y`; the product sum of `[x, [y, z]]` is `x + 2 * (y + z)`; the product sum of `[x, [y, [z]]]` is `x + 2 * (y + 3z)`.
 
-#### Sample Input:
+##### Sample Input:
 
 ```
 array = [5, 2, [7, -1], 3, [6, [-13, 8], 4]]
 ```
 
-### Sample Output:
+##### Sample Output:
 
 ```
 12
